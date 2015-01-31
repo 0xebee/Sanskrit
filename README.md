@@ -21,7 +21,7 @@ i.e the line of code can be written in 2^n ways if there are n words in the line
                                                 --------------------
 
 
-![Alt text](/Users/teja/Desktop/plan.png?raw=true " source : http://www.vedicsciences.net/articles/sanskrit-nasa.html ")
+![Alt text](/Pictures/plan.png?raw=true " source : http://www.vedicsciences.net/articles/sanskrit-nasa.html ")
 so parser relies on token detection.
 our language takes advantage of fixed morphology of sanskrit
 verbs - > tense,number,person.
