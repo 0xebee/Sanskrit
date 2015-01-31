@@ -1,14 +1,12 @@
 # Sanskrit
-<p>
-the language is processed as:
--a word goes through
-Dathu roop   => 36
-shabda roop  => 21
-Avyaya       => 1
-58 forms of a word.
-and sentance is not effected by the order of words.
-i.e the line of code can be written in 2^n ways if there are n words in the line.
-</p>
+>the language is processed as:
+>-a word goes through
+>Dathu roop   => 36
+>shabda roop  => 21
+>Avyaya       => 1
+>58 forms of a word.
+>and sentance is not effected by the order of words.
+>i.e the line of code can be written in 2^n ways if there are n words in the line.
 ```
 
                                                   ______> token ______
