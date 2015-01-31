@@ -1,6 +1,6 @@
 # Sanskrit
->the language is processed as:
 
+>the language is processed as:
 >-a word goes through
 
 >Dathu roop   => 36
