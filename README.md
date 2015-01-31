@@ -29,4 +29,4 @@ verbs - > tense,number,person.
 noun -> sex , number ,case.
 
 ![Alt text](/Pictures/fig1.gif?raw=true " source : http://www.vedicsciences.net/articles/sanskrit-nasa.html ")
-
+it
