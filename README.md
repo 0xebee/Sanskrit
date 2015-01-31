@@ -33,8 +33,11 @@ noun -> sex , number ,case.
 License
 ---------
 MIT License. Copyright 2015
+
 EBEE IT SOLUTIONS PRIVATE LIMITED (OPC)
+
 CIN: U72200TG2014OPC094772
+
 http://github.com/0xebee
 
 Permission is hereby granted, free of charge, to any
