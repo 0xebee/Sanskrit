@@ -41,6 +41,14 @@ noun -> sex , number ,case.
 
 ![Alt text](/Pictures/fig1.gif?raw=true " source : http://www.vedicsciences.net/articles/sanskrit-nasa.html ")
 
+test.sml
+--------
+sml
+
+is used here on for this project.
+
+the file test.sml reads the input form the input.txt and parses it into list of list of chars
+
 License
 ---------
 MIT License. Copyright 2015

@@ -15,4 +15,4 @@ fun getsudo file   = map explode (linelist file);
 
 
 fun  main args =
-   getsudo "sudo.txt";
+   getsudo "input.txt";
