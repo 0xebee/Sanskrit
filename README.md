@@ -26,8 +26,8 @@
                                       \                                      /
                                        \        ____________________        /
                                            \----> |  Indexed database | <---- /
-                                                   --------------------
-   ```
+                                                --------------------
+```
 
 ![Alt text](/Pictures/plan.png?raw=true " this is the basic plan for the code. to parse stream of bits into legal lines of code.")
 
